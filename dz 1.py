@@ -1,4 +1,4 @@
-#ok so hi hello hi
+#домашнє завдання для "ООП. Класи. Атрибути та методи класів."
 class bank_acount:
     def __init__(self, money):
         self.money = money
